@@ -8,7 +8,7 @@ Weight
 Lengths (Length1, Length2, Length3)
 Height
 Width (target variable)
-[fish dataset]https://www.kaggle.com/datasets/kenza1996/fish-dataset
+[Fish Dataset from Kaggle](https://www.kaggle.com/datasets/kenza1996/fish-dataset)
 
 ## Models Used
 The project implements and compares several machine learning models:
